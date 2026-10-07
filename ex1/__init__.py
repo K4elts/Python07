@@ -1,5 +1,5 @@
-from .capabilities_factory import (HealingCreatureFactory,
-                                   TransformCreatureFactory)
+from .factory import (HealingCreatureFactory,
+                      TransformCreatureFactory)
 
 
 __all__ = [
